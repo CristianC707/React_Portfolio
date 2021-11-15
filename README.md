@@ -3,7 +3,7 @@
 React Portfolio is an app that contains my current information for employers
 
 ## Usage
-![https___cristiancport com - Google Chrome 11_15_2021 12_45_43 PM (2)](https://user-images.githubusercontent.com/83788525/141829754-201f6e04-ddc7-4e7d-b086-11e91f561dd8.png)
+![React_Portfolio_README md at main · CristianC707_React_Portfolio - Google Chrome 11_15_2021 12_54_46 PM](https://user-images.githubusercontent.com/83788525/141830875-e0a1ec64-7964-4482-bd6d-3d6828f899fb.png)
 
 ## Tech Stack
 * React
