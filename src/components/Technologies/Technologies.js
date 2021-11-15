@@ -1,9 +1,10 @@
 import React from 'react';
+import { AiFillHtml5 } from 'react-icons/ai';
 import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
-const Technologies = () =>  (
+const Technologies = () => (
   <Section id="tech">
     <SectionDivider />
     <br />
@@ -13,20 +14,18 @@ const Technologies = () =>  (
     </SectionText>
     <List>
       <ListItem>
-        <DiReact size="3rem" />
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-         HTML5 <br /> CSS3 <br /> JavaScript <br /> React 
+            HTML5 <br /> CSS3 <br /> JavaScript <br /> React <br /> Api Design
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size="3rem" />
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Node.js <br /> Express.js <br /> MySQL <br /> MongoDB 
+            Node.js <br /> Express.js <br /> MySQL <br /> MongoDB
           </ListParagraph>
         </ListContainer>
       </ListItem>
