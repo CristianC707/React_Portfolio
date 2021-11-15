@@ -46,7 +46,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        How did i get into it, how did i start learning, accomplishments.
+        What got me into coding was my love for problem solving and the satisfaction I get from getting the computer to do what I want and my
+        love for technology. 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

@@ -38,9 +38,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2019, text: 'Graduated from Hampden Dubose Highschool and second overall to graduate from a family of six.', },
+  { year: 2019, text: 'Got certified through the University of Central Florida as an Aviation Tech.', },
+  { year: 2020, text: 'Graduated from UCF\'s coding bootcamp for Web Development', },
+  { year: 2021, text: 'Became a father!', },
 ];
