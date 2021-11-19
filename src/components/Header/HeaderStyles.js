@@ -66,6 +66,51 @@ export const NavLink = styled.a`
   }
 `;
 
+export const NavLink1 = styled.a`
+  font-size: 2rem;
+  line-height: 32px;
+  color: rgba(255, 255, 255, 0.75);
+  transition: 0.4s ease;
+  &:hover {
+    color: #fff;
+    opacity: 1;
+    cursor: pointer;
+  }
+  @media ${(props) => props.theme.breakpoints.sm} {
+    padding: 0.5rem;
+  }
+`;
+
+export const NavLink2 = styled.a`
+  font-size: 2rem;
+  line-height: 32px;
+  color: rgba(255, 255, 255, 0.75);
+  transition: 0.4s ease;
+  &:hover {
+    color: #fff;
+    opacity: 1;
+    cursor: pointer;
+  }
+  @media ${(props) => props.theme.breakpoints.sm} {
+    padding: 0.5rem;
+  }
+`;
+
+export const NavLink3 = styled.a`
+  font-size: 2rem;
+  line-height: 32px;
+  color: rgba(255, 255, 255, 0.75);
+  transition: 0.4s ease;
+  &:hover {
+    color: #fff;
+    opacity: 1;
+    cursor: pointer;
+  }
+  @media ${(props) => props.theme.breakpoints.sm} {
+    padding: 0.5rem;
+  }
+`;
+
 /// DropDown Contact
 export const ContactDropDown = styled.button`
   border: none;
