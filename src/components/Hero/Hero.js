@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
         An aspiring junior web developer with a passion for creating web applications while continuing to learn and grow in the field of technology.
       </SectionText>
-      <Button onClick={() => window.location = 'https://onedrive.live.com/edit.aspx?resid=77126F6952C6B64!6317&ithint=file%2cdocx&wdOrigin=OFFICECOM-WEB.START.MRU'}>Learn More</Button>
+     <ExternalLinks to="/public/images/code.pdf"> <Button onClick={() => window.location = ''}>Learn More</Button> </ExternalLinks>
     </LeftSection>
   </Section>
 );
