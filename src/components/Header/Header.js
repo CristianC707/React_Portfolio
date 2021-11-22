@@ -25,7 +25,7 @@ const Header = () =>  (
           <NavLink href='#about'>About</NavLink>
       </li>
       <li>      
-          <NavLink href='https://docs.google.com/document/d/1NB7-j2V7iw-h8G_mnBgUaNun27nDcyI8jJI1rj_L3NE/edit?usp=sharing'>Resume</NavLink>       
+          <NavLink href='#contact'>Contact</NavLink>       
       </li>
     </Div2>
     <Div3>
