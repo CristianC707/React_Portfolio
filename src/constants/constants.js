@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'COMING SOON',
-    description: [ 'Memories: Due Date 11-22-21', <br />, 'E-Commerce Store', <br />, 'Quiz App' , <br />, 'Realtime Chat Messenger', <br />, 'Cryptocurrency App'],
+    description: [ 'IN PROGRESS: Memories', <br />, 'E-Commerce Store', <br />, 'Quiz App' , <br />, 'Realtime Chat Messenger', <br />, 'Cryptocurrency App'],
     image: '/images/2.png',
     tags: ['N/A'],
     source: 'https://github.com/CristianC707',
